@@ -29,7 +29,7 @@ function App() {
               flag?
                 <FaSun className='text-yellow-500'/>
               :
-                <FaRegMoon className='text-white'/>
+                <FaRegMoon className='text-yellow-500'/>
             }
           </span>
           </button>
